@@ -1,3 +1,3 @@
 # Solarion-Chronicles
 
-This is an adventure game based off of the Stardew Valley heart event. You will need to download the Music.mp3 provided in order to run this program!
+This is an adventure game based off of the Stardew Valley heart event. You will need to download the Music.mp3 provided in order to run this program! You will need to import colored library (pip install colored).
